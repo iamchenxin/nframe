@@ -1,6 +1,6 @@
 [ignore]
 .*/test/.*
-.*/__test__/.*
+.*/__tests__/.*
 .*/node_modules/binary-extensions/.*
 .*/node_modules/builtin-modules/.*
 .*/node_modules/fbjs.*/.*
